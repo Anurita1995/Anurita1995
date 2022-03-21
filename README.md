@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anurita1995
-- 👀 I’m interested in Manual and Automation Testing, Agile and Azure 
+- 👀 I’m interested in Functional Testing, Business Analyst Role and handled projects with Team and individually in AGILE methodology .
 - 🌱 I’m currently learning Automation Testing
 - 📫 How to reach me through Linkedin https://www.linkedin.com/in/anurita-chatterjee-18a8a312a/
 
